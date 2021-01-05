@@ -1,7 +1,7 @@
 # graphics-source
 Heya! ink here. 
 
-This page is being set up to potentially host the graphics for <a href="https://dragonheaven.herokuapp.com/#">Dragon Heaven's custom client</a> at some point in the future. 
+This page is an organizational aid for graphics hosting for <a href="https://dragonheaven.herokuapp.com/#">Dragon Heaven's custom client</a>.
 
 If you want your files added, please feel free to contact me - I can be reached on Discord (inkbug#7658) and on <a href="https://www.smogon.com/forums/members/inkbug.522695/">Smogon Forums</a> - or to submit a PR! It's generally easier for me to add files directly using Github Desktop though, so sending me a zip or a place to download all the files is preferable.
 
@@ -15,6 +15,8 @@ The main folder for the mod in question should be named the same as your mod's m
 - /back-shiny/ 
 
 Your sprites go in their respective folders. The filenames are in all lowercase with no spaces, hyphens or special characters - "Mega Meowstic F" may be called meowstic-f-mega in the code, but it needs to be meowsticfmega.png here. 
+
+I have a "sprites" folder in between the mod folder and the folders where the sprites actually go because that makes it easier for me to copy things around to where they need to go. 
 
 # 2: Sprite specifications
 The sprites that Showdown uses need to be very specific sizes in order to display proplerly. 
