@@ -1,0 +1,442 @@
+{
+  "FlyNrm1": {
+    "player": "ABC",
+    "role": "Warlord",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Kagujiao",
+    "types": []
+  },
+  "FlyNrm2": {
+    "player": "Polite",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Kagujiao",
+    "types": []
+  },
+  "FlyNrm3": {
+    "player": "Soul",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Birdie Bois",
+    "types": []
+  },
+  "FlyNrm4": {
+    "player": "(Sub)",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Birdie Bois",
+    "types": []
+  },
+  "FlyNrm5": {
+    "player": "ink",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Rock Lobster",
+    "types": []
+  },
+  "FlyNrm6": {
+    "player": "bingus",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Electroplasm",
+    "types": []
+  },
+  "FaiPsy1": {
+    "player": "Uperog",
+    "role": "Fallen",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "FaiPsy2": {
+    "player": "Hazelcrit",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "FaiPsy3": {
+    "player": "Dani",
+    "role": "Imperial",
+    "alliance": "Empire",
+    "kingdom": "Empire",
+    "location": "Empire",
+    "types": []
+  },
+  "FaiPsy4": {
+    "player": "(Sub)",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "FaiPsy5": {
+    "player": "Warrior",
+    "role": "RA_Alchemist",
+    "alliance": "Sky High",
+    "kingdom": "Birdie Bois",
+    "location": "Birdie Bois",
+    "types": []
+  },
+  "FaiPsy6": {
+    "player": "(Sub)",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Kagujiao",
+    "location": "Velkhana",
+    "types": []
+  },
+  "FirFig1": {
+    "player": "Cold",
+    "role": "Warlord",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Kagujiao",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "FirFig2": {
+    "player": "ShadowFire",
+    "role": "Wanderer",
+    "alliance": "Wanderer",
+    "kingdom": "Wanderer",
+    "location": "Velkhana",
+    "types": []
+  },
+  "FirFig3": {
+    "player": "Jae",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Velkhana",
+    "location": "Kagujiao",
+    "types": []
+  },
+  "FirFig4": {
+    "player": "(Sub)",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Electroplasm",
+    "types": []
+  },
+  "FirFig5": {
+    "player": "Pao",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Kagujiao",
+    "location": "Velkhana",
+    "types": []
+  },
+  "FirFig6": {
+    "player": "thiccyp",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Velkhana",
+    "types": []
+  },
+  "IceDrg1": {
+    "player": "Lone",
+    "role": "Warlord",
+    "alliance": "Sky High",
+    "kingdom": "Velkhana",
+    "location": "Electroplasm",
+    "types": []
+  },
+  "IceDrg2": {
+    "player": "Juli",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Velkhana",
+    "location": "Kagujiao",
+    "types": []
+  },
+  "IceDrg3": {
+    "player": "Dean",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Velkhana",
+    "location": "Kagujiao",
+    "types": []
+  },
+  "IceDrg4": {
+    "player": "Insert",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Terrafactora",
+    "types": []
+  },
+  "IceDrg5": {
+    "player": "(Sub)",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "IceDrg6": {
+    "player": "KingBelgarion",
+    "role": "Imperial",
+    "alliance": "Empire",
+    "kingdom": "Empire",
+    "location": "Empire",
+    "types": []
+  },
+  "BugRck1": {
+    "player": "Ham",
+    "role": "Warlord",
+    "alliance": "Sky High",
+    "kingdom": "Rock Lobster",
+    "location": "Rock Lobster",
+    "types": []
+  },
+  "BugRck2": {
+    "player": "charles",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Rock Lobster",
+    "location": "Electroplasm",
+    "types": []
+  },
+  "BugRck3": {
+    "player": "brent",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Rock Lobster",
+    "location": "Rock Lobster",
+    "types": []
+  },
+  "BugRck4": {
+    "player": "Biome",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Rock Lobster",
+    "location": "Kagujiao",
+    "types": []
+  },
+  "BugRck5": {
+    "player": "cyll",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Rock Lobster",
+    "location": "Neurofae",
+    "types": []
+  },
+  "BugRck6": {
+    "player": "LBJ",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Rock Lobster",
+    "location": "Rock Lobster",
+    "types": []
+  },
+  "GrsPoi1": {
+    "player": "Ryan",
+    "role": "Fallen",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "GrsPoi2": {
+    "player": "jtk",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "GrsPoi3": {
+    "player": "Berries",
+    "role": "Imperial",
+    "alliance": "Empire",
+    "kingdom": "Empire",
+    "location": "Empire",
+    "types": []
+  },
+  "GrsPoi4": {
+    "player": "Lime",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "GrsPoi5": {
+    "player": "samariton",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "GrsPoi6": {
+    "player": "PhantomNiktory",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Velkhana",
+    "types": []
+  },
+  "WtrDrk1": {
+    "player": "Lordxie",
+    "role": "Warlord",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "WtrDrk2": {
+    "player": "CEO",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "WtrDrk3": {
+    "player": "Rare",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "WtrDrk4": {
+    "player": "Jordan",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "WtrDrk5": {
+    "player": "Endgame",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Velkhana",
+    "types": []
+  },
+  "WtrDrk6": {
+    "player": "Mirage",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Velkhana",
+    "types": []
+  },
+  "GhoEle1": {
+    "player": "Draco",
+    "role": "Fallen",
+    "alliance": "Sky High",
+    "kingdom": "Velkhana",
+    "location": "Rock Lobster",
+    "types": []
+  },
+  "GhoEle2": {
+    "player": "NINJOSH",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Neurofae",
+    "types": []
+  },
+  "GhoEle3": {
+    "player": "Drunyon",
+    "role": "Warrior",
+    "alliance": "Sky High",
+    "kingdom": "Velkhana",
+    "location": "Rock Lobster",
+    "types": []
+  },
+  "GhoEle4": {
+    "player": "Felom",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Gyarados Falls",
+    "location": "Gyarados Falls",
+    "types": []
+  },
+  "GhoEle5": {
+    "player": "Pokefan",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Velkhana",
+    "types": []
+  },
+  "GhoEle6": {
+    "player": "(Sub)",
+    "role": "Wanderer",
+    "alliance": "-",
+    "kingdom": "-",
+    "location": "Velkhana",
+    "types": []
+  },
+  "StlGrd1": {
+    "player": "Granbel",
+    "role": "Warlord",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Velkhana",
+    "types": []
+  },
+  "StlGrd2": {
+    "player": "(Sub)",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Velkhana",
+    "types": []
+  },
+  "StlGrd3": {
+    "player": "Burning",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Poison Ivy",
+    "types": []
+  },
+  "StlGrd4": {
+    "player": "S0me",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Terrafactora",
+    "types": []
+  },
+  "StlGrd5": {
+    "player": "Starshooter",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Terrafactora",
+    "types": []
+  },
+  "StlGrd6": {
+    "player": "The Main Mon",
+    "role": "Warrior",
+    "alliance": "Mystic Marsh",
+    "kingdom": "Terrafactora",
+    "location": "Terrafactora",
+    "types": []
+  },
+  "emperor": {
+    "player": "SKZ",
+    "role": "Emperor",
+    "alliance": "Empire",
+    "kingdom": "Empire",
+    "location": "Empire",
+    "types": []
+  }
+}
