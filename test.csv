@@ -20,12 +20,12 @@ FirFig4, (Sub), Wanderer, -, -, Electroplasm, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
 FirFig5, Pao, Warrior, Mystic Marsh, Kagujiao, Velkhana, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0
 FirFig6, thiccyp, Wanderer, -, -, Velkhana, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
-IceDrg1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-IceDrg2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-IceDrg3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-IceDrg4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-IceDrg5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-IceDrg6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+IceDrg1, Lone, Warlord, Sky High, Velkhana, Electroplasm, 0, 9, 0, 4, 0, 1, 10, 0, 0, 0, 6, 7, 8, 3, 2, 0, 0, 5
+IceDrg2, Juli, Warrior, Sky High, Velkhana, Kagujiao, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0
+IceDrg3, Dean, Warrior, Sky High, Velkhana, Kagujiao, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+IceDrg4, Insert, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0
+IceDrg5, (Sub), Wanderer, -, -, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+IceDrg6, KingBelgarion, Imperial, Empire, Empire, Empire, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
 
 BugRck1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
 BugRck2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
@@ -62,4 +62,4 @@ StlGrd4, name, role, alliance, kingdom, location, normal, fire, water, electric,
 StlGrd5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
 StlGrd6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
 
-emperor, name, role, alliance, kingdom, location, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+emperor, SKZ, Emperor, Empire, Empire, Empire, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
