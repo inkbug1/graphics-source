@@ -1,2 +1,65 @@
-Slot, Name, Role, Alliance, Kingdom, Location, Types
-normal-ground-warlord, -, Warlord, alliance, Normal Ground Kingdom, Normal Ground Kingdom, types
+id, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FlyNrm1, ABC, Sky High, Birdie Bois, Kagujiao, 1, 0, 0, 3, 0, 0, 4, 0, 0, 4, 0, 2, 0, 0, 0, 0, 0, 0
+FlyNrm2, Polite, Sky High, Birdie Bois, Kagujiao, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+FlyNrm3, Soul, Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+FlyNrm4, (Sub), Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+FlyNrm5, ink, Sky High, Birdie Bois, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0
+FlyNrm6, bingus, Sky High, Birdie Bois, Electroplasm, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0
+
+FaiPsy1, Uperog, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, false, false, false, false, false, false, false, false, false, false, 2, false, false, false, false, 3, false, 1
+FaiPsy2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FaiPsy3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FaiPsy4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FaiPsy5, RA_Alchemist, Sky High, Birdie Bois, Birdie Bois, false, false, false, false, false, false, false, poison, false, 2, false, false, false, false, false, false, false, 1
+FaiPsy6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+FirFig1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FirFig2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FirFig3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FirFig4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FirFig5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+FirFig6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+IceDrg1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+IceDrg2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+IceDrg3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+IceDrg4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+IceDrg5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+IceDrg6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+BugRck1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+BugRck2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+BugRck3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+BugRck4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+BugRck5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+BugRck6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+GrsPoi1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GrsPoi2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GrsPoi3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GrsPoi4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GrsPoi5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GrsPoi6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+WtrDrk1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+WtrDrk2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+WtrDrk3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+WtrDrk4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+WtrDrk5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+WtrDrk6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+GhoEle1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GhoEle2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GhoEle3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GhoEle4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GhoEle5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GhoEle6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+StlGrd1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+StlGrd2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+StlGrd3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+StlGrd4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+StlGrd5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+StlGrd6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+
+emperor, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
