@@ -1,4 +1,4 @@
-id, name, role, alliance, kingdom, location, types
+id, player, role, alliance, kingdom, location, types
 FlyNrm1, ABC, Warlord, Sky High, Birdie Bois, Kagujiao, []
 FlyNrm2, Polite, Warrior, Sky High, Birdie Bois, Kagujiao, []
 FlyNrm3, Soul, Warrior, Sky High, Birdie Bois, Birdie Bois, []
