@@ -27,39 +27,39 @@ IceDrg4, Insert, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 
 IceDrg5, (Sub), Wanderer, -, -, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
 IceDrg6, KingBelgarion, Imperial, Empire, Empire, Empire, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
 
-BugRck1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-BugRck2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-BugRck3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-BugRck4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-BugRck5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-BugRck6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+BugRck1, Ham, Warlord, Sky High, Rock Lobster, Rock Lobster, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0
+BugRck2, charles, Warrior, Sky High, Rock Lobster, Electroplasm, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0
+BugRck3, brent, Warrior, Sky High, Rock Lobster, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0
+BugRck4, Biome, Warrior, Sky High, Rock Lobster, Kagujiao, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+BugRck5, cyll, Warrior, Sky High, Rock Lobster, Neurofae, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0
+BugRck6, LBJ, Warrior, Sky High, Rock Lobster, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0
 
-GrsPoi1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GrsPoi2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GrsPoi3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GrsPoi4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GrsPoi5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GrsPoi6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GrsPoi1, Ryan, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 3, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+GrsPoi2, jtk, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+GrsPoi3, Berries, Imperial, Empire, Empire, Empire, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+GrsPoi4, Lime, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+GrsPoi5, samariton, Wanderer, -, -, Poison Ivy, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+GrsPoi6, PhantomNiktory, Wanderer, -, -, Velkhana, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
-WtrDrk1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-WtrDrk2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-WtrDrk3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-WtrDrk4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-WtrDrk5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-WtrDrk6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+WtrDrk1, Lordxie, Warlord, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 1, 0, 3, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0
+WtrDrk2, CEO, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+WtrDrk3, Rare, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+WtrDrk4, Jordan, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+WtrDrk5, Endgame, Warrior, Mystic Marsh, Gyarados Falls, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0
+WtrDrk6, Mirage, Warrior, Mystic Marsh, Gyarados Falls, Velkhana, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
-GhoEle1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GhoEle2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GhoEle3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GhoEle4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GhoEle5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-GhoEle6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+GhoEle1, Draco, Fallen, Sky High, Velkhana, Rock Lobster, 0, 5, 0, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 3
+GhoEle2, NINJOSH, Wanderer, -, -, Neurofae, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+GhoEle3, Drunyon, Warrior, Sky High, Velkhana, Rock Lobster, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0
+GhoEle4, Felom, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+GhoEle5, Pokefan, Wanderer, -, -, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+GhoEle6, (Sub), Wanderer, -, -, Velkhana, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
-StlGrd1, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-StlGrd2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-StlGrd3, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-StlGrd4, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-StlGrd5, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-StlGrd6, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
+StlGrd1, Granbel, Warlord, Mystic Marsh, Terrafactora, Velkhana, 0, 0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 4, 0, 2, 0
+StlGrd2, (Sub), Warrior, Mystic Marsh, Terrafactora, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0
+StlGrd3, Burning, Warrior, Mystic Marsh, Terrafactora, Poison Ivy, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0
+StlGrd4, S0me, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+StlGrd5, Starshooter, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0
+StlGrd6, The Main Mon, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 emperor, SKZ, Emperor, Empire, Empire, Empire, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
