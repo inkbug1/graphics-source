@@ -1,10 +1,10 @@
 id, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-FlyNrm1, ABC, Sky High, Birdie Bois, Kagujiao, 1, 0, 0, 3, 0, 0, 4, 0, 0, 4, 0, 2, 0, 0, 0, 0, 0, 0
-FlyNrm2, Polite, Sky High, Birdie Bois, Kagujiao, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
-FlyNrm3, Soul, Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FlyNrm4, (Sub), Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FlyNrm5, ink, Sky High, Birdie Bois, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0
-FlyNrm6, bingus, Sky High, Birdie Bois, Electroplasm, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0
+FlyNrm1, ABC, Warlord, Sky High, Birdie Bois, Kagujiao, 1, 0, 0, 3, 0, 0, 4, 0, 0, 4, 0, 2, 0, 0, 0, 0, 0, 0
+FlyNrm2, Polite, Warrior, Sky High, Birdie Bois, Kagujiao, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+FlyNrm3, Soul, Warrior, Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+FlyNrm4, (Sub), Warrior, Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+FlyNrm5, ink, Warrior, Sky High, Birdie Bois, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0
+FlyNrm6, bingus, Warrior, Sky High, Birdie Bois, Electroplasm, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0
 
 FaiPsy1, Uperog, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, false, false, false, false, false, false, false, false, false, false, 2, false, false, false, false, 3, false, 1
 FaiPsy2, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
