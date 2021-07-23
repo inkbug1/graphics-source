@@ -1,3 +1,2 @@
-a, b, c
-1, 2, 3
-4, 5, 6
+Slot, Name, Role, Alliance, Kingdom, Location, Types
+normal-ground-warlord, -, Warlord, alliance, Normal Ground Kingdom, Normal Ground Kingdom, [normal, ground]
