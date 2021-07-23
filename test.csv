@@ -1,65 +1,56 @@
-id, name, role, alliance, kingdom, location, normal, fire, water, electric, grass, ice, fighting, poison, ground, flying, psychic, bug, rock, ghost, dragon, dark, steel, fairy
-FlyNrm1, ABC, Warlord, Sky High, Birdie Bois, Kagujiao, 1, 0, 0, 3, 0, 0, 4, 0, 0, 4, 0, 2, 0, 0, 0, 0, 0, 0
-FlyNrm2, Polite, Warrior, Sky High, Birdie Bois, Kagujiao, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
-FlyNrm3, Soul, Warrior, Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FlyNrm4, (Sub), Warrior, Sky High, Birdie Bois, Birdie Bois, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FlyNrm5, ink, Warrior, Sky High, Birdie Bois, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0
-FlyNrm6, bingus, Warrior, Sky High, Birdie Bois, Electroplasm, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0
-
-FaiPsy1, Uperog, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 3, 0, 1
-FaiPsy2, Hazelcrit, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
-FaiPsy3, Dani, Imperial, Empire, Empire, Empire, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1
-FaiPsy4, (Sub), Wanderer, -, -, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
-FaiPsy5, Warrior, RA_Alchemist, Sky High, Birdie Bois, Birdie Bois, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1
-FaiPsy6, (Sub), Warrior, Mystic Marsh, Kagujiao, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
-
-FirFig1, Cold, Warlord, Mystic Marsh, Kagujiao, Poison Ivy, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FirFig2, ShadowFire, Wanderer, Wanderer, Wanderer, Velkhana, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FirFig3, Jae, Warrior, Sky High, Velkhana, Kagujiao, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
-FirFig4, (Sub), Wanderer, -, -, Electroplasm, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-FirFig5, Pao, Warrior, Mystic Marsh, Kagujiao, Velkhana, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0
-FirFig6, thiccyp, Wanderer, -, -, Velkhana, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-
-IceDrg1, Lone, Warlord, Sky High, Velkhana, Electroplasm, 0, 9, 0, 4, 0, 1, 10, 0, 0, 0, 6, 7, 8, 3, 2, 0, 0, 5
-IceDrg2, Juli, Warrior, Sky High, Velkhana, Kagujiao, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0
-IceDrg3, Dean, Warrior, Sky High, Velkhana, Kagujiao, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-IceDrg4, Insert, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0
-IceDrg5, (Sub), Wanderer, -, -, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
-IceDrg6, KingBelgarion, Imperial, Empire, Empire, Empire, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
-
-BugRck1, Ham, Warlord, Sky High, Rock Lobster, Rock Lobster, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0
-BugRck2, charles, Warrior, Sky High, Rock Lobster, Electroplasm, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0
-BugRck3, brent, Warrior, Sky High, Rock Lobster, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0
-BugRck4, Biome, Warrior, Sky High, Rock Lobster, Kagujiao, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
-BugRck5, cyll, Warrior, Sky High, Rock Lobster, Neurofae, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0
-BugRck6, LBJ, Warrior, Sky High, Rock Lobster, Rock Lobster, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0
-
-GrsPoi1, Ryan, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 3, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-GrsPoi2, jtk, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-GrsPoi3, Berries, Imperial, Empire, Empire, Empire, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-GrsPoi4, Lime, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-GrsPoi5, samariton, Wanderer, -, -, Poison Ivy, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-GrsPoi6, PhantomNiktory, Wanderer, -, -, Velkhana, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-
-WtrDrk1, Lordxie, Warlord, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 1, 0, 3, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0
-WtrDrk2, CEO, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-WtrDrk3, Rare, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
-WtrDrk4, Jordan, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-WtrDrk5, Endgame, Warrior, Mystic Marsh, Gyarados Falls, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0
-WtrDrk6, Mirage, Warrior, Mystic Marsh, Gyarados Falls, Velkhana, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-
-GhoEle1, Draco, Fallen, Sky High, Velkhana, Rock Lobster, 0, 5, 0, 2, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 3
-GhoEle2, NINJOSH, Wanderer, -, -, Neurofae, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
-GhoEle3, Drunyon, Warrior, Sky High, Velkhana, Rock Lobster, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0
-GhoEle4, Felom, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
-GhoEle5, Pokefan, Wanderer, -, -, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
-GhoEle6, (Sub), Wanderer, -, -, Velkhana, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-
-StlGrd1, Granbel, Warlord, Mystic Marsh, Terrafactora, Velkhana, 0, 0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 4, 0, 2, 0
-StlGrd2, (Sub), Warrior, Mystic Marsh, Terrafactora, Velkhana, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0
-StlGrd3, Burning, Warrior, Mystic Marsh, Terrafactora, Poison Ivy, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0
-StlGrd4, S0me, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
-StlGrd5, Starshooter, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0
-StlGrd6, The Main Mon, Warrior, Mystic Marsh, Terrafactora, Terrafactora, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
-
-emperor, SKZ, Emperor, Empire, Empire, Empire, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+id, name, role, alliance, kingdom, location, types
+FlyNrm1, ABC, Warlord, Sky High, Birdie Bois, Kagujiao, []
+FlyNrm2, Polite, Warrior, Sky High, Birdie Bois, Kagujiao, []
+FlyNrm3, Soul, Warrior, Sky High, Birdie Bois, Birdie Bois, []
+FlyNrm4, (Sub), Warrior, Sky High, Birdie Bois, Birdie Bois, []
+FlyNrm5, ink, Warrior, Sky High, Birdie Bois, Rock Lobster, []
+FlyNrm6, bingus, Warrior, Sky High, Birdie Bois, Electroplasm, []
+FaiPsy1, Uperog, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, []
+FaiPsy2, Hazelcrit, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, []
+FaiPsy3, Dani, Imperial, Empire, Empire, Empire, []
+FaiPsy4, (Sub), Wanderer, -, -, Gyarados Falls, []
+FaiPsy5, Warrior, RA_Alchemist, Sky High, Birdie Bois, Birdie Bois, []
+FaiPsy6, (Sub), Warrior, Mystic Marsh, Kagujiao, Velkhana, []
+FirFig1, Cold, Warlord, Mystic Marsh, Kagujiao, Poison Ivy, []
+FirFig2, ShadowFire, Wanderer, Wanderer, Wanderer, Velkhana, []
+FirFig3, Jae, Warrior, Sky High, Velkhana, Kagujiao, []
+FirFig4, (Sub), Wanderer, -, -, Electroplasm, []
+FirFig5, Pao, Warrior, Mystic Marsh, Kagujiao, Velkhana, []
+FirFig6, thiccyp, Wanderer, -, -, Velkhana, []
+IceDrg1, Lone, Warlord, Sky High, Velkhana, Electroplasm, []
+IceDrg2, Juli, Warrior, Sky High, Velkhana, Kagujiao, []
+IceDrg3, Dean, Warrior, Sky High, Velkhana, Kagujiao, []
+IceDrg4, Insert, Warrior, Mystic Marsh, Terrafactora, Terrafactora, []
+IceDrg5, (Sub), Wanderer, -, -, Gyarados Falls, []
+IceDrg6, KingBelgarion, Imperial, Empire, Empire, Empire, []
+BugRck1, Ham, Warlord, Sky High, Rock Lobster, Rock Lobster, []
+BugRck2, charles, Warrior, Sky High, Rock Lobster, Electroplasm, []
+BugRck3, brent, Warrior, Sky High, Rock Lobster, Rock Lobster, []
+BugRck4, Biome, Warrior, Sky High, Rock Lobster, Kagujiao, []
+BugRck5, cyll, Warrior, Sky High, Rock Lobster, Neurofae, []
+BugRck6, LBJ, Warrior, Sky High, Rock Lobster, Rock Lobster, []
+GrsPoi1, Ryan, Fallen, Mystic Marsh, Gyarados Falls, Gyarados Falls, []
+GrsPoi2, jtk, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, []
+GrsPoi3, Berries, Imperial, Empire, Empire, Empire, []
+GrsPoi4, Lime, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, []
+GrsPoi5, samariton, Wanderer, -, -, Poison Ivy, []
+GrsPoi6, PhantomNiktory, Wanderer, -, -, Velkhana, []
+WtrDrk1, Lordxie, Warlord, Mystic Marsh, Gyarados Falls, Poison Ivy, []
+WtrDrk2, CEO, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, []
+WtrDrk3, Rare, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, []
+WtrDrk4, Jordan, Warrior, Mystic Marsh, Gyarados Falls, Poison Ivy, []
+WtrDrk5, Endgame, Warrior, Mystic Marsh, Gyarados Falls, Velkhana, []
+WtrDrk6, Mirage, Warrior, Mystic Marsh, Gyarados Falls, Velkhana, []
+GhoEle1, Draco, Fallen, Sky High, Velkhana, Rock Lobster, []
+GhoEle2, NINJOSH, Wanderer, -, -, Neurofae, []
+GhoEle3, Drunyon, Warrior, Sky High, Velkhana, Rock Lobster, []
+GhoEle4, Felom, Warrior, Mystic Marsh, Gyarados Falls, Gyarados Falls, []
+GhoEle5, Pokefan, Wanderer, -, -, Velkhana, []
+GhoEle6, (Sub), Wanderer, -, -, Velkhana, []
+StlGrd1, Granbel, Warlord, Mystic Marsh, Terrafactora, Velkhana, []
+StlGrd2, (Sub), Warrior, Mystic Marsh, Terrafactora, Velkhana, []
+StlGrd3, Burning, Warrior, Mystic Marsh, Terrafactora, Poison Ivy, []
+StlGrd4, S0me, Warrior, Mystic Marsh, Terrafactora, Terrafactora, []
+StlGrd5, Starshooter, Warrior, Mystic Marsh, Terrafactora, Terrafactora, []
+StlGrd6, The Main Mon, Warrior, Mystic Marsh, Terrafactora, Terrafactora, []
+emperor, SKZ, Emperor, Empire, Empire, Empire, []
